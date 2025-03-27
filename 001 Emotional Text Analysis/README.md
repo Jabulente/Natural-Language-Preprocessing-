@@ -67,8 +67,8 @@ Here's a more concise and action-oriented version:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
-   cd sentiment-analysis
+   [git clone https://github.com/your-username/sentiment-analysis.git](https://github.com/Jabulente/Natural-Language-Preprocessing-.git)
+   cd 001-Emotional-Text-Analysis
    ```
 
 2. **Launch Jupyter Notebook**:
@@ -77,7 +77,7 @@ Here's a more concise and action-oriented version:
    ```
 
 3. **Open the Analysis Notebook**:
-   - Open `Sentiment_Emotion_Analysis.ipynb`
+   - Open `Emotional Text Analysis (NLP).ipynb`
 
 4. **Run All Cells**:
    - Use `Kernel > Restart & Run All` to execute the full pipeline
@@ -123,4 +123,3 @@ This analysis was performed by **Jabulente**, a passionate and dedicated data sc
 [![GitHub](https://img.shields.io/badge/GitHub-Jabulente-black?logo=github)](https://github.com/Jabulente)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)  [![X (Twitter)](https://img.shields.io/badge/X-@Jabulente-black?logo=x)](https://x.com/Jabulente)  [![Instagram](https://img.shields.io/badge/Instagram-@Jabulente-purple?logo=instagram)](https://instagram.com/Jabulente)  [![Threads](https://img.shields.io/badge/Threads-@Jabulente-black?logo=threads)](https://threads.net/@Jabulente) [![TikTok](https://img.shields.io/badge/TikTok-@Jabulente-teal?logo=tiktok)](https://tiktok.com/@Jabulente)  [![Email](https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)  
 </div>
 <hr>
-
